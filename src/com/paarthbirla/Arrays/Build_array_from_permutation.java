@@ -1,4 +1,4 @@
-package com.paarthbirla;
+package com.paarthbirla.Arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;
